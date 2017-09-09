@@ -8,6 +8,7 @@ $(document).ready(function(){
         });
 
 
+/*back to top btn appear after scrolling*/
 if ($('#back-to-top').length) {
     var scrollTrigger = 1200, // px
         backToTop = function () {
@@ -39,4 +40,5 @@ $('.map-container')
   .click(function(){
       $(this).find('iframe').addClass('clicked')})
   .mouseleave(function(){
-      $(this).find('iframe').removeClass('clicked')});
+      $(this).find('iframe').removeClass('clicked')}
+);
