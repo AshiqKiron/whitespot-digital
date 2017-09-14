@@ -5,11 +5,11 @@ header img{background-size:cover;width:100%}
 .service_wrap .blck1{padding:3% 5% 1%;padding-left:15%}
 .service_wrap .blck1 div,.service_wrap .blck2 div{float:left;width:25%}
 .clearfix{content:'';clear:both;visibility:hidden}
-.service_wrap .blck2{padding:5% 5% 1%;padding-left:15%}
+.service_wrap .blck2{padding:1% 5% 1%;padding-left:15%}
 .service_wrap h3{font-size:30px;text-transform:uppercase;font-weight:300}
 .service_wrap h4{font-size:16px;font-weight:300}
 .service_wrap div{padding:0 2%}
-.service_wrap p{line-height:1.5em;font-size:13px}
+.service_wrap p{line-height:1.6em;font-size:13px;letter-spacing: .1px;}
 .service_wrap .fa{color:#00bcd4;font-size:18px}
 .why_us_wrap{background:#fff;display:flex}
 .why_us_wrap ul li{list-style:none;padding:5px;font-size:13px}
@@ -70,7 +70,7 @@ footer span{padding:0 10px}
 .contentContainer_h4{background:rgba(3,169,244,.18);text-align:center;padding:7% 2%}
 .cont_div{padding:0 20%}
 .contentContainer h4{float:left;width:29%;transition:.9s ease all;-webkit-transition:.9s ease all;padding:10% 2%}
-.contentContainer h4{color:#fff;border:1px solid rgba(238,238,238,.18)}
+.contentContainer h4{color:#fff;border:1px solid rgba(238,238,238,.18);font-weight: 100;text-shadow: 1px 1px rgba(255, 255, 255, 0.2);}
 .about_us{background-color:#f8f7fc;padding:5%;text-align:center}
 .about_us h3{font-size:35px;columns:#222;padding-bottom:2%}
 .us_one{display:flex;justify-content:center;font-size:13px}
