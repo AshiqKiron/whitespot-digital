@@ -106,7 +106,7 @@ header div a{padding:30px 50px}
 }
 @media only screen and (max-width:768px){
 .contentContainer h4{float:left;width:100%;padding:20% 0}
-.clients img{width:20%}
+.clients img{width:100%}
 .link_txt{padding:7.2% 0 10%}
 }
 @media only screen and (min-width:769px) and (max-width:1024px){
