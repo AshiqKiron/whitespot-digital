@@ -1,3 +1,14 @@
+# Change Log - 05/10/17
+
+ - Fixed team member spacing issue
+ - Tweaked header CSS button
+ - Tweaked Footer social button
+ - Added new clients logo
+ - Clients logo in color
+ - Styling SASSified 
+
+
+
 # Change Log - 11/9/17
 
  - Changed Ayreen Aziz text
